@@ -1,0 +1,9 @@
+Group,KPI,Outages,Share_higher_before_pct,Median_difference,Wilcoxon_p
+All,Traffic,2000,49.8,-0.0013,0.89941096
+All,Connected_Users,2000,49.3,0.0,0.37956935
+All,Throughput,2000,23.6,-0.1357,0.0
+All,Latency,2000,75.6,7.1883,0.0
+All,Packet_Loss,2000,74.9,0.1469,0.0
+All,Load,2000,64.4,0.9001,0.0
+All,Utilization,2000,64.4,2.3292,0.0
+All,Alarm_Count,2000,46.0,0.0,0.0

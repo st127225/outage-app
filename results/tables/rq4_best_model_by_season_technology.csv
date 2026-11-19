@@ -1,0 +1,15 @@
+Eval set,Breakdown,Group,Rows,Positives,Positive_rate_pct,PR_AUC,Lift_vs_random
+Temporal test,Season,Rainy,189441,171,0.09027,0.06183,68.49627
+Temporal test,Season,Summer,189452,132,0.06967,0.27013,387.70218
+Temporal test,Season,Winter,183328,187,0.102,0.18978,186.05524
+Temporal test,Technology,2G,151597,136,0.08971,0.12222,136.23996
+Temporal test,Technology,3G,143498,109,0.07596,0.19574,257.69732
+Temporal test,Technology,4G,150120,138,0.09193,0.19615,213.3824
+Temporal test,Technology,5G,117006,107,0.09145,0.16393,179.25535
+Unseen-site test,Season,Rainy,1891680,1536,0.0812,0.14468,178.1843
+Unseen-site test,Season,Summer,1891723,1466,0.0775,0.21304,274.90261
+Unseen-site test,Season,Winter,1830673,1443,0.07882,0.18171,230.53216
+Unseen-site test,Technology,2G,1471761,1156,0.07855,0.21266,270.74985
+Unseen-site test,Technology,3G,1471756,1280,0.08697,0.18293,210.3357
+Unseen-site test,Technology,4G,1471779,1138,0.07732,0.1251,161.79565
+Unseen-site test,Technology,5G,1198780,871,0.07266,0.21437,295.04836

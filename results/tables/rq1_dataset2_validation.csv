@@ -1,0 +1,27 @@
+Check,Value
+rows,133952650.0
+kpi_rows,133899043.0
+outage_rows,26809.0
+recovery_rows,26798.0
+other_record_type,0.0
+unparsed_timestamp,0.0
+unknown_cell_id,0.0
+duplicate_kpi_keys,0.0
+out_of_order_kpi_rows,0.0
+load_gt_capacity,48678266.0
+seconds,491.0
+missing Traffic (KPI rows),0.0
+missing Connected_Users (KPI rows),0.0
+missing Throughput (KPI rows),0.0
+missing Latency (KPI rows),0.0
+missing Packet_Loss (KPI rows),0.0
+missing Load (KPI rows),0.0
+missing Capacity (KPI rows),0.0
+missing Alarm_Count (KPI rows),0.0
+invalid Traffic<0,0.0
+invalid Connected_Users<0,0.0
+invalid Throughput<0,0.0
+invalid Latency<0,0.0
+invalid Packet_Loss outside 0-100,0.0
+invalid Capacity<=0,0.0
+Load>Capacity share of KPI rows (%),36.35

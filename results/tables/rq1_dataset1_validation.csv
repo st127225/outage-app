@@ -1,0 +1,13 @@
+Check,Value
+rows,22900.0
+columns,8.0
+missing_values,0.0
+duplicate_rows,0.0
+duplicate_cell_ids,0.0
+unique_sites,6000.0
+unique_cells,22900.0
+neighbor_references,223003.0
+unresolved_neighbor_references,0.0
+neighbors_per_cell_min,3.0
+neighbors_per_cell_mean,9.74
+neighbors_per_cell_max,12.0

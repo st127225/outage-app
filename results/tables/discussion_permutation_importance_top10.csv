@@ -1,0 +1,21 @@
+Model,Feature,Group,Importance,Std
+Gradient Boosting,Utilization,KPI lookback,0.196269,0.003793
+Gradient Boosting,Latency_trend,KPI lookback,0.111726,0.001381
+Gradient Boosting,Traffic,KPI lookback,0.098073,0.002497
+Gradient Boosting,Alarm_Count_mean6h,KPI lookback,0.093981,0.002136
+Gradient Boosting,Packet_Loss_trend,KPI lookback,0.086118,0.003583
+Gradient Boosting,Utilization_lag2,KPI lookback,0.083903,0.002683
+Gradient Boosting,Connected_Users,KPI lookback,0.059185,0.002868
+Gradient Boosting,Utilization_mean6h,KPI lookback,0.030211,0.004906
+Gradient Boosting,Packet_Loss,KPI lookback,0.028378,0.001025
+Gradient Boosting,Alarm_Count,KPI lookback,0.025026,0.002741
+Random Forest,Alarm_Count,KPI lookback,0.025804,0.001941
+Random Forest,Alarm_Count_lag1,KPI lookback,0.022624,0.001677
+Random Forest,Alarm_Count_mean6h,KPI lookback,0.022612,0.001308
+Random Forest,Packet_Loss_trend,KPI lookback,0.02237,0.003738
+Random Forest,Latency_trend,KPI lookback,0.018699,0.003
+Random Forest,Alarm_Count_lag2,KPI lookback,0.016347,0.000211
+Random Forest,Packet_Loss,KPI lookback,0.011041,0.002267
+Random Forest,Throughput_trend,KPI lookback,0.005232,0.00092
+Random Forest,Packet_Loss_mean6h,KPI lookback,0.004977,0.000663
+Random Forest,Utilization,KPI lookback,0.004711,0.001146

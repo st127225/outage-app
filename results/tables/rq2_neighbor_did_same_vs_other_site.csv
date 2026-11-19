@@ -1,0 +1,17 @@
+Group,KPI,Pairs,Share_increased_pct,Median_DiD,Sign_test_p
+Other-site neighbor,Connected_Users,3870,62.6,3.5,1.714428715622513e-55
+Other-site neighbor,Traffic,3942,63.0,0.246,4.0348927628549613e-60
+Other-site neighbor,Load,3943,65.3,1.978,8.826643616540643e-84
+Other-site neighbor,Utilization,3943,65.3,4.562,8.826643616540643e-84
+Other-site neighbor,Throughput,3936,39.2,-0.062,7.566138179813591e-42
+Other-site neighbor,Latency,3943,68.1,4.579,2.08589287910929e-117
+Other-site neighbor,Packet_Loss,3938,64.2,0.065,2.443561205953353e-72
+Other-site neighbor,Alarm_Count,471,55.4,0.5,0.021130710052592937
+Same-site neighbor,Connected_Users,1005,64.7,3.5,9.50562493775938e-21
+Same-site neighbor,Traffic,1034,65.7,0.373,4.121652406152036e-24
+Same-site neighbor,Load,1034,66.6,2.685,4.884653034252343e-27
+Same-site neighbor,Utilization,1034,66.6,5.663,4.884653034252343e-27
+Same-site neighbor,Throughput,1033,39.0,-0.059,1.6694307938073702e-12
+Same-site neighbor,Latency,1034,68.9,4.781,1.7473853575659173e-34
+Same-site neighbor,Packet_Loss,1033,66.0,0.078,3.876761045713782e-25
+Same-site neighbor,Alarm_Count,125,52.8,0.5,0.5916839270941626

@@ -1,0 +1,9 @@
+Group,KPI,Pairs,Share_increased_pct,Median_DiD,Sign_test_p
+All neighbors,Connected_Users,4875,63.0,3.5,2.665024202385479e-74
+All neighbors,Traffic,4976,63.5,0.266,4.853761881073076e-82
+All neighbors,Load,4977,65.6,2.111,4.936564451120854e-109
+All neighbors,Utilization,4977,65.6,4.792,4.936564451120854e-109
+All neighbors,Throughput,4969,39.2,-0.061,8.1262537659426275e-53
+All neighbors,Latency,4977,68.3,4.594,3.651782891734211e-150
+All neighbors,Packet_Loss,4971,64.6,0.068,1.3617905676823475e-95
+All neighbors,Alarm_Count,596,54.9,0.5,0.019477251536478224

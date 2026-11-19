@@ -1,0 +1,7 @@
+Model,Hyper-parameters,Parameters_or_nodes,Model_size_KB,Fit_time_s,Predict_s_per_1M_rows,Interpretability,Lift_temporal,Lift_unseen,Recall_temporal,FA_per_site_day_temporal
+Rule: Alarm_Count,{'threshold': 3.0},1,0.0,0.0,0.0,Very high (one threshold),4.42,4.528,0.0306,0.0163
+Rule: Utilization,{'threshold': 300.47418212890625},1,0.0,0.0,0.0,Very high (one threshold),1.235,1.325,0.0163,0.0464
+Logistic Regression,{'C': 1.0},62,4.3,4.5,0.61,High (signed coefficients),22.713,27.688,0.1122,0.0103
+Decision Tree,"{'max_depth': 8, 'min_samples_leaf': 200}",179,16.8,19.0,0.48,High (readable if-then rules),65.97,81.007,0.098,0.0013
+Random Forest,"{'max_depth': 14, 'min_samples_leaf': 50}",219500,17213.3,57.2,2.01,Medium-low (needs feature importance),125.606,164.211,0.1367,0.0024
+Gradient Boosting,"{'learning_rate': 0.05, 'max_leaf_nodes': 31}",18300,1123.1,8.5,2.24,Low (needs feature importance),186.775,225.297,0.1776,0.0017

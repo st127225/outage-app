@@ -1,0 +1,43 @@
+|--- Alarm_Count <= 0.50
+|   |--- Latency <= 182.05
+|   |   |--- Alarm_Count_mean6h <= 0.17
+|   |   |   |--- Latency_trend <= 9.36
+|   |   |   |   |--- truncated branch of depth 5
+|   |   |   |--- Latency_trend >  9.36
+|   |   |   |   |--- truncated branch of depth 5
+|   |   |--- Alarm_Count_mean6h >  0.17
+|   |   |   |--- Latency_trend <= 9.05
+|   |   |   |   |--- truncated branch of depth 5
+|   |   |   |--- Latency_trend >  9.05
+|   |   |   |   |--- truncated branch of depth 5
+|   |--- Latency >  182.05
+|   |   |--- Latency_lag1 <= 172.64
+|   |   |   |--- Connected_Users <= 72.50
+|   |   |   |   |--- class: 1
+|   |   |   |--- Connected_Users >  72.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |--- Latency_lag1 >  172.64
+|   |   |   |--- Connected_Users_lag1 <= 80.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- Connected_Users_lag1 >  80.50
+|   |   |   |   |--- class: 1
+|--- Alarm_Count >  0.50
+|   |--- Alarm_Count_lag1 <= 0.50
+|   |   |--- Latency_trend <= 6.83
+|   |   |   |--- Alarm_Count_lag2 <= 0.50
+|   |   |   |   |--- truncated branch of depth 5
+|   |   |   |--- Alarm_Count_lag2 >  0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |--- Latency_trend >  6.83
+|   |   |   |--- Latency <= 102.08
+|   |   |   |   |--- truncated branch of depth 4
+|   |   |   |--- Latency >  102.08
+|   |   |   |   |--- truncated branch of depth 5
+|   |--- Alarm_Count_lag1 >  0.50
+|   |   |--- Packet_Loss <= 0.69
+|   |   |   |--- class: 1
+|   |   |--- Packet_Loss >  0.69
+|   |   |   |--- Throughput_trend <= 0.84
+|   |   |   |   |--- truncated branch of depth 5
+|   |   |   |--- Throughput_trend >  0.84
+|   |   |   |   |--- class: 1

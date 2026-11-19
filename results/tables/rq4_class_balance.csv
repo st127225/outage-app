@@ -1,0 +1,5 @@
+Split,Eligible_rows,Eligible_positives,Positive_rate_pct,Rows_used,Positives_used,Positive_rate_used_pct,Cells,Sites
+train,44706839,35474,0.0793,481716,35474,7.3641,15271,4000
+val,543885,433,0.0796,543885,433,0.0796,764,711
+test_temporal,562221,490,0.0872,562221,490,0.0872,764,711
+test_unseen,5614076,4445,0.0792,5614076,4445,0.0792,7629,2000

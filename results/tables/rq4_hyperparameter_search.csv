@@ -1,0 +1,25 @@
+Model,Features,Params,Val_PR_AUC,Fit_seconds
+Logistic Regression,Full,{'C': 0.01},0.018630329422793492,4.8
+Logistic Regression,Full,{'C': 0.1},0.019201088908136904,4.6
+Logistic Regression,Full,{'C': 1.0},0.019277582087585503,4.5
+Decision Tree,Full,"{'max_depth': 4, 'min_samples_leaf': 200}",0.03379414439684949,10.8
+Decision Tree,Full,"{'max_depth': 6, 'min_samples_leaf': 200}",0.04398557111381935,14.8
+Decision Tree,Full,"{'max_depth': 8, 'min_samples_leaf': 200}",0.047586035525449454,19.0
+Random Forest,Full,"{'max_depth': 8, 'min_samples_leaf': 50}",0.09648333027540151,38.5
+Random Forest,Full,"{'max_depth': 14, 'min_samples_leaf': 50}",0.10304457691854137,57.2
+Gradient Boosting,Full,"{'learning_rate': 0.05, 'max_leaf_nodes': 15}",0.12182867815669955,9.4
+Gradient Boosting,Full,"{'learning_rate': 0.05, 'max_leaf_nodes': 31}",0.12939096407085335,8.5
+Gradient Boosting,Full,"{'learning_rate': 0.1, 'max_leaf_nodes': 15}",0.1230215961172165,7.0
+Gradient Boosting,Full,"{'learning_rate': 0.1, 'max_leaf_nodes': 31}",0.12836844496707914,7.9
+Logistic Regression,Full+Neighbor,{'C': 0.01},0.022483270257988196,4.6
+Logistic Regression,Full+Neighbor,{'C': 0.1},0.023298947290320313,4.8
+Logistic Regression,Full+Neighbor,{'C': 1.0},0.023334779544756656,4.7
+Decision Tree,Full+Neighbor,"{'max_depth': 4, 'min_samples_leaf': 200}",0.03379414439684949,10.8
+Decision Tree,Full+Neighbor,"{'max_depth': 6, 'min_samples_leaf': 200}",0.044412241095665536,14.8
+Decision Tree,Full+Neighbor,"{'max_depth': 8, 'min_samples_leaf': 200}",0.047586035525449454,18.8
+Random Forest,Full+Neighbor,"{'max_depth': 8, 'min_samples_leaf': 50}",0.0927653806056768,39.0
+Random Forest,Full+Neighbor,"{'max_depth': 14, 'min_samples_leaf': 50}",0.09939782176463718,62.2
+Gradient Boosting,Full+Neighbor,"{'learning_rate': 0.05, 'max_leaf_nodes': 15}",0.1236466015051196,8.5
+Gradient Boosting,Full+Neighbor,"{'learning_rate': 0.05, 'max_leaf_nodes': 31}",0.12426829246009337,9.8
+Gradient Boosting,Full+Neighbor,"{'learning_rate': 0.1, 'max_leaf_nodes': 15}",0.12613179967308158,8.6
+Gradient Boosting,Full+Neighbor,"{'learning_rate': 0.1, 'max_leaf_nodes': 31}",0.12221341411347017,8.9

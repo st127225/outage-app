@@ -1,0 +1,16 @@
+Feature,Coefficient
+Utilization_mean6h,1.0501
+Utilization_lag1,1.0441
+Utilization_lag2,0.9918
+Utilization,0.9521
+Traffic,-0.8259
+Traffic_mean6h,-0.7871
+Traffic_lag2,-0.7308
+Traffic_lag1,-0.7099
+Connected_Users,-0.6321
+Connected_Users_mean6h,-0.5782
+Connected_Users_lag1,-0.5094
+Connected_Users_lag2,-0.5004
+Tech_2G,-0.3796
+Tech_5G,0.3687
+Latency_trend,0.342

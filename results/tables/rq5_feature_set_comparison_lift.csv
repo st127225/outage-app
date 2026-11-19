@@ -1,0 +1,7 @@
+Model,Eval set,Full,Full+Neighbor,KPI-only,No-KPI
+Decision Tree,Temporal test,65.97,65.97,,
+Decision Tree,Unseen-site test,81.007,81.007,,
+Gradient Boosting,Temporal test,186.775,182.503,193.248,0.937
+Gradient Boosting,Unseen-site test,225.297,226.335,230.62,0.976
+Logistic Regression,Temporal test,22.713,27.385,,
+Logistic Regression,Unseen-site test,27.688,35.071,,

@@ -1,0 +1,5 @@
+Eval set,Feature,Share_of_positive_rows_pct,Share_of_negative_rows_pct
+Temporal test,Nbr_Outage_Starts_6h,0.204,0.394
+Temporal test,Site_Outage_Starts_6h,0.0,0.124
+Unseen-site test,Nbr_Outage_Starts_6h,0.427,0.386
+Unseen-site test,Site_Outage_Starts_6h,0.202,0.113

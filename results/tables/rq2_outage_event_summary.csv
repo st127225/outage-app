@@ -1,0 +1,11 @@
+Measure,Value
+outage_events,26809.0
+duplicate_outage_events_removed,0.0
+duplicate_recovery_events_removed,0.0
+recovered_outages,26798.0
+unrecovered_outages,11.0
+cells_with_outage,15749.0
+duration_mean_h,2.264
+duration_median_h,2.267
+duration_min_h,0.5
+duration_max_h,4.0
